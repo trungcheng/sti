@@ -1,15 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="430ea1d0-3b4c-470d-97d0-059771010c99" name="Default Changelist" comment="" />
+    <list default="true" id="430ea1d0-3b4c-470d-97d0-059771010c99" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Api/Controller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Api/UserController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Requests/Api/User/AuthenticateRequest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Requests/Api/User/RegisterRequest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Requests/Request.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/View/Composers/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Models/CanBeDisabledTrait.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Models/ExtraMethodTrait.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Models/Model.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Providers/ViewServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Repositories/Contracts/RepositoryInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Repositories/Repository.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Repositories/UserRepository.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Services/Service.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Services/UserService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/System/Response/Responder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Utilities/Arr.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Utilities/General.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Utilities/Lang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Utilities/Paginator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Utilities/S3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Utilities/Sms.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Utilities/Str.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Utilities/Time.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Utilities/Url.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Middleware/VerifyCsrfToken.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Middleware/VerifyCsrfToken.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PackageJsonUpdateNotifier">
     <dismissed value="$PROJECT_DIR$/package.json" />
@@ -139,15 +191,27 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1lT1i1VM4xL4pqvH1srRiTw0SbQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_MARK_IGNORED_FILES_AS_EXCLUDED" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/Http/Requests/Api/User" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\sti\app\Http\Requests\Api\User" />
+      <recent name="C:\xampp\htdocs\sti\app\Http\Requests" />
+      <recent name="C:\xampp\htdocs\sti\app\Repositories\Contracts" />
+      <recent name="C:\xampp\htdocs\sti\app\Models" />
+      <recent name="C:\xampp\htdocs\sti\app\Repositories" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -164,6 +228,8 @@
       <option name="presentableId" value="Default" />
       <updated>1607606390678</updated>
       <workItem from="1607606391779" duration="10539000" />
+      <workItem from="1607619386414" duration="238000" />
+      <workItem from="1607777908244" duration="3522000" />
     </task>
     <servers />
   </component>
@@ -173,10 +239,33 @@
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="swagger.json" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="418" y="187" key="#Notifications" timestamp="1607606585523">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="418" y="187" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1607606585523" />
+    <state x="412" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1607779767752">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1607779767752" />
+    <state x="413" y="118" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1607781455515">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="118" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1607781455515" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1607778705750">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1607778705750" />
   </component>
 </project>
