@@ -20,36 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="430ea1d0-3b4c-470d-97d0-059771010c99" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Api/Controller.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Api/UserController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Requests/Api/User/AuthenticateRequest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Requests/Api/User/RegisterRequest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Requests/Request.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/View/Composers/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Models/CanBeDisabledTrait.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Models/ExtraMethodTrait.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Models/Model.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Providers/ViewServiceProvider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Repositories/Contracts/RepositoryInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Repositories/Repository.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Repositories/UserRepository.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Services/Service.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Services/UserService.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/System/Response/Responder.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Utilities/Arr.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Utilities/General.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Utilities/Lang.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Utilities/Paginator.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Utilities/S3.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Utilities/Sms.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Utilities/Str.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Utilities/Time.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Utilities/Url.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/main.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Middleware/VerifyCsrfToken.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Middleware/VerifyCsrfToken.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -201,16 +173,16 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/Http/Requests/Api/User" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/config" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\sti\config" />
       <recent name="C:\xampp\htdocs\sti\app\Http\Requests\Api\User" />
       <recent name="C:\xampp\htdocs\sti\app\Http\Requests" />
       <recent name="C:\xampp\htdocs\sti\app\Repositories\Contracts" />
       <recent name="C:\xampp\htdocs\sti\app\Models" />
-      <recent name="C:\xampp\htdocs\sti\app\Repositories" />
     </key>
   </component>
   <component name="RunManager">
@@ -229,7 +201,7 @@
       <updated>1607606390678</updated>
       <workItem from="1607606391779" duration="10539000" />
       <workItem from="1607619386414" duration="238000" />
-      <workItem from="1607777908244" duration="3522000" />
+      <workItem from="1607777908244" duration="4411000" />
     </task>
     <servers />
   </component>
